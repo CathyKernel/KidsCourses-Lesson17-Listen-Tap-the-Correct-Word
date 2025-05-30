@@ -37,9 +37,5 @@ A web-based vocabulary game where players listen to biblical words and tap the c
 
 No installation needed - runs directly in browser:
 
-```bash
-# Clone the repository
-git clone https://github.com/your-username/bible-vocabulary-challenge.git
-
 # Open index.html in your browser
 open index.html
