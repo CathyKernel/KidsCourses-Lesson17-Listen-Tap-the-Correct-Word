@@ -35,7 +35,4 @@ A web-based vocabulary game where players listen to biblical words and tap the c
 
 ## Installation
 
-No installation needed - runs directly in browser:
-
-# Open index.html in your browser
-open index.html
+No installation needed - runs directly in browser
