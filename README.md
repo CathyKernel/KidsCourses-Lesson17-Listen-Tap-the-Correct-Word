@@ -3,7 +3,6 @@
 
 A web-based vocabulary game where players listen to biblical words and tap the correct matching tile. Built with HTML, CSS, and JavaScript.
 
-[Play Live Demo](https://your-demo-link-here.com)
 
 ## Features
 
